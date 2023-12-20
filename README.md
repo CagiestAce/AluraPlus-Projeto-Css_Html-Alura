@@ -1,2 +1,2 @@
 # alura-plus
-Projetos dos cursos da alura
+Projeto de um site fictício com assinatura, feito seguindo as instruções dos cursos da alura
